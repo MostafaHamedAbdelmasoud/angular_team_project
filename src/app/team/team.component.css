@@ -1,0 +1,59 @@
+
+#team
+{
+	padding: 130px 0px 0px 0px;
+}
+.dteam
+{
+	position: relative;
+	overflow: hidden;
+}
+
+.img-caption-team
+{
+	background-color: rgba(0, 195, 218, 0.9);
+	position: absolute;
+	top: 0120%;
+	bottom: 0;
+	height: 0;
+	width: 100%;
+	transition: all 0.2s;
+	display: block;
+
+
+}
+.img-caption-team i{
+	color: white;
+	padding-right: 5px;
+	font-size: 14px;
+	cursor: pointer;
+
+}
+.icons
+{
+	left: 20px;
+	top: 20px;
+	position: absolute;
+
+}
+.img-caption-team .cage
+{
+	color: white;
+	position: absolute;
+	bottom: 40px;
+	left: 20px;
+}
+.img-caption-team .founder1
+{
+	color: white;
+	position: absolute;
+	bottom: 10px;
+	left: 20px;
+}
+.dteam:hover .img-caption-team
+{
+
+	display: block;
+	top: 0;
+	height: 100%;
+}

@@ -1,0 +1,36 @@
+
+
+
+
+.navbar
+{
+	padding: 30px;
+	background-color: rgba(0,0,0,0.6);
+	border-bottom: 0.5px solid gray;
+	color: white;
+
+}
+
+nav li a
+{
+	color:white;
+}
+
+
+
+
+.navbar-light .navbar-nav .nav-link
+{
+	color: white;
+}
+.navbar-light .navbar-brand
+{
+
+
+	color: white;
+
+}
+.gf
+{
+    color: white;
+}

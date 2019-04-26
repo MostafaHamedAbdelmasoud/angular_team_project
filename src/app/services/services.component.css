@@ -1,0 +1,30 @@
+
+#services
+{
+	background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url(../../assets/bg-image-26.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-position: center;
+	padding: 100px 0px;
+	position: relative;
+	overflow: hidden;
+}
+.fde
+{
+	background-color: rgba(0,0,0,0.6);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	bottom: 0;
+}
+.ser
+{
+	padding: 100px 0px;
+	color: white;
+}
+.what
+{
+	color: white;
+}
+
