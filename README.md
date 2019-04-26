@@ -5,7 +5,7 @@ it's a simple website made with angular v6 including bootstrap, typed library, j
 
 ![](src/assets/screen1.png)
 
-#installation:
+# installation:
 
 1- run "sudo apt install nodejs npm"
 
